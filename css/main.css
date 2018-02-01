@@ -35,7 +35,7 @@ h3 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p.description {
     text-align: center;
     font-size: 2em;
     line-height: 1.4em;
