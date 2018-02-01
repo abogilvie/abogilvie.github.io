@@ -29,7 +29,11 @@ h2 {
     font-size: 3.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
+p.info {
+    text-align: center;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 h3 {
     text-align: center;
     font-size: 2em;
@@ -37,11 +41,6 @@ h3 {
     font-style: italic;
 }
 p.description {
-    text-align: center;
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p.info {
     text-align: center;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
