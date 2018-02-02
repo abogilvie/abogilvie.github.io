@@ -40,6 +40,11 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-style: italic;
 }
+p.about {
+    text-align: center;
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 p.description {
     text-align: center;
     font-size: 3em;
