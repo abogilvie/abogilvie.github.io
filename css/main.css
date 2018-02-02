@@ -39,6 +39,7 @@ p.info {
 }
 p.about {
     text-align: center;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
