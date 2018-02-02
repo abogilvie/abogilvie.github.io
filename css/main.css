@@ -34,11 +34,8 @@ p.info {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-h3 {
-    text-align: center;
-    font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-style: italic;
+.box{
+    border: solid 1px rgba(224, 224, 224, 0.75);
 }
 p.about {
     text-align: center;
