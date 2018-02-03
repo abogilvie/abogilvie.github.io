@@ -49,6 +49,20 @@ h4 {
     font-size: 20pt;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+p.alex{
+    text-align: center;
+    font-size: 16pt;
+    color: #6e6e6e;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1em;
+}
+p.austin{
+     text-align: center;
+    font-size: 16pt;
+    color: #6e6e6e;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1em;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
