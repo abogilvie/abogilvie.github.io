@@ -73,6 +73,10 @@ h5 {
     font-size: 20pt;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
