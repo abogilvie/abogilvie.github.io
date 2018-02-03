@@ -44,6 +44,11 @@ p.about {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.75em;
 }
+h4 {
+    text-align: center;
+    font-size: 20pt;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
