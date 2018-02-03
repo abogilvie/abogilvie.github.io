@@ -76,10 +76,16 @@ h5 {
 img.resize1 {
     max-width:50%;
     max-height:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 img.resize2 {
     max-width:50%;
     max-height:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 footer {
     border-top: 1px solid #d5d5d5;
