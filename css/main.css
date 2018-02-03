@@ -34,6 +34,11 @@ p.info {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+p.advisors {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
 .box{
     border: solid 1px rgba(224, 224, 224, 0.75);
 }
