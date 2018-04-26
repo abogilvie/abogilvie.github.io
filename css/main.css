@@ -55,7 +55,7 @@ p.about {
     line-height: 1.75em;
 }
 h4 {
-    text-align: center;
+    text-align: left;
     font-size: 20pt;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -74,7 +74,7 @@ p.austin {
     line-height: 1em;
 }
 h5 {
-    text-align: center;
+    text-align: left;
     font-size: 20pt;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
