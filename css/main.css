@@ -20,12 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: 30pt;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    text-align: center;
+    text-align: left;
     font-size: 20pt;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -41,6 +41,11 @@ p.advisors {
 }
 .box{
     border: solid 1px rgba(224, 224, 224, 0.75);
+}
+h3 {
+    text-align: left;
+    font-size: 20pt;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p.about {
     text-align: center;
