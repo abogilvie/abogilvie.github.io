@@ -75,8 +75,10 @@ p.austin {
 }
 h5 {
     text-align: left;
-    font-size: 20pt;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 16pt;
+    color: #6e6e6e;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.75em;
 }
 h6 {
     text-align: left;
